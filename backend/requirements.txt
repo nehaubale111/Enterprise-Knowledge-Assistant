@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+requests
+sentence-transformers
+faiss-cpu
+pypdf
+python-docx
+python-pptx
+pandas
