@@ -1,0 +1,1 @@
+A full-stack enterprise knowledge assistant built with FastAPI, React, and RAG. Supports secure document upload, embeddings, vector search, and role-based access for employees and admins.Designed for internal company knowledge retrieval with a modern UI and scalable backend.
